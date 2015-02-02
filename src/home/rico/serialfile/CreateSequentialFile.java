@@ -16,6 +16,7 @@ public class CreateSequentialFile {
 
 	}
 	
+	
 	private static ObjectOutputStream output;
 	
 	
